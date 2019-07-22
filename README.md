@@ -1,5 +1,4 @@
 # RISC-V-simulator-phase-2-and-3
-
 	 	 	 	
 GROUP_1_README
 PHASE 2
